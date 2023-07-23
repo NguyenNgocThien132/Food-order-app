@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alata</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/archivo_black</item>
+        <item>@font/bangers</item>
+        <item>@font/bevan</item>
+        <item>@font/lobster</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/nosifer</item>
+        <item>@font/notable</item>
+        <item>@font/oi</item>
+        <item>@font/passion_one</item>
+        <item>@font/permanent_marker</item>
+        <item>@font/rammetto_one</item>
+        <item>@font/sigmar_one</item>
+        <item>@font/suez_one</item>
+        <item>@font/ultra</item>
+    </array>
+</resources>
